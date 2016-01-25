@@ -1,6 +1,6 @@
 # When in Rome — Custom Theme for Mou Text Editor
 
-![When in Rome theme preview](img/rome_preview.png)
+![When in Rome theme preview](img/rome_theme_preview.png)
 
 ## [DOWNLOAD](When in Rome.txt)
 
