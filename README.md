@@ -2,7 +2,7 @@
 
 ![When in Rome theme preview](img/rome_theme_preview.png)
 
-## [DOWNLOAD](When in Rome.txt)
+## [DOWNLOAD](https://raw.githubusercontent.com/meowwwls/when-in-rome-mou-theme/master/When%20in%20Rome.txt)
 
 ## About the Theme
 
