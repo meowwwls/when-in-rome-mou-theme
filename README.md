@@ -1,8 +1,10 @@
-# When in Rome — Custom Theme for Mou Text Editor
+# When in Rome — Custom Theme for Mou Markdown Editor
 
 ![When in Rome theme preview](img/rome_theme_preview.png)
 
 ## [DOWNLOAD](When in Rome.txt)
+
+## About the Theme
 
 **When in Rome** is a custom theme for the [Mou](http://25.io/mou/) Markdown editor. This is *not* a custom style sheet and will not affect live preview or any HTML or PDF exports.
 
@@ -10,7 +12,7 @@ This theme is meant to be one that's easy to read on dim screens, even with [f.l
 
 ## How to Install
 
-Installation couldn't be easier. Simply place the `When in Rome.txt` file into `~/Library/Application Support/Mou/Themes` 
+Installation couldn't be easier. Simply place the `When in Rome.txt` file into this folder: `~/Library/Application Support/Mou/Themes` 
 
 (*from your terminal, just copy and paste `open ~/Library/Application\ Support/Mou/Themes`*)
 
